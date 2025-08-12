@@ -26,6 +26,18 @@ Este aviso deverá estar presente nos arquivos principais do projeto, e não pod
 
 ---
 
+## Aviso Legal (Disclaimer)
+
+O **Eagle Eyes** é uma ferramenta desenvolvida para fins educacionais e para uso em testes de segurança autorizados (pentests).
+
+O uso desta ferramenta para atividades ilegais, invasão de sistemas sem permissão, ou qualquer ação que viole leis vigentes é estritamente proibido.
+
+O autor, **Daniel Takeyama**, não se responsabiliza por qualquer uso indevido, danos ou consequências decorrentes da utilização do software por terceiros.
+
+Ao utilizar o Eagle Eyes, você concorda em assumir total responsabilidade pelo seu uso e se compromete a respeitar todas as leis aplicáveis e obter as autorizações necessárias antes de realizar quaisquer testes.
+
+---
+
 ### 📝 Padrão de Commits
 
 Use os **prefixos** abaixo para manter o histórico de commits organizado e fácil de entender:
